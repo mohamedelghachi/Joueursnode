@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "idEquipe":1,
+        "nom":"HAKIMI",
+        "poste":2
+    },
+    {
+        "id":2,
+        "idEquipe":2,
+        "nom":"Ronaldo",
+        "poste":7
+    }
+]
